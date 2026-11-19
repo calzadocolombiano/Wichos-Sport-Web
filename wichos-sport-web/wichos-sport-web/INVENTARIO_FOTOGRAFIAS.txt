@@ -1,7 +1,0 @@
-Fotografías seleccionadas e integradas desde el ZIP entregado:
-- assets/brand/: logotipo digitalizado y dos alternativas de logo para revisión.
-- assets/products/: selección de 9 fotografías de producto.
-- assets/process/: selección de 8 fotografías de procesos, personas y maquinaria.
-
-El ZIP original contiene fotografías adicionales que no se integraron para evitar duplicados y mantener una carga inicial ligera. Se pueden incorporar reemplazando o agregando archivos y actualizando sus rutas en index.html.
-Algunas imágenes recibidas tienen resolución pequeña; conviene solicitar originales de mayor tamaño antes de publicar para lograr una presentación óptima en pantallas grandes.
